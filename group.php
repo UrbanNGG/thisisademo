@@ -204,7 +204,7 @@ include("./includes/verify.php");
 	</script>
 	<script src="vendor/x-editable/dist/bootstrap3-editable/js/bootstrap-editable.js">
 	</script>
-
+  nig
 
 </body>
 </html>
